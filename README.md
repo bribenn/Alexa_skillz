@@ -53,3 +53,4 @@ In this video we take some time to explain how information is passed from the sk
 
 ###Video 6 of 6 (flask-ask & ngrok)
 For viewers who may want to use their own customized server we created this video to give you great starting point using flask-ask and ngrok. Flask-ask is a flask extension that can be placed on any server using python and it is built to easily handle requests from the Alexa Skill Kit. Also, we teach you how to download and use ngrok which allows you to securely test your skill locally. This helps developers avoid creating and setting up a https enabled server just to test out their skill.
+# Alexa_skillz
